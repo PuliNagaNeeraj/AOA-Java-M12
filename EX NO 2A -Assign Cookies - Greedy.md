@@ -10,7 +10,7 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 1.Start the program. Read the number of children n and their greed factors array g[], then read the number of cookies m and their sizes array s[].
 
 2.Sort both arrays — g[] (children’s greed) and s[] (cookie sizes) in ascending order.
-
+a
 3.Initialize two pointers: i = 0 (for children) and j = 0 (for cookies).
 
 4.Iterate while both pointers are valid:
